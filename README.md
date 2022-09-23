@@ -1,3 +1,0 @@
-# DataCleaningProject
-
-Проект по очистке. 
